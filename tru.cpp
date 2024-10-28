@@ -7,7 +7,7 @@ int main ()
     int a, b;
     int c;
     
-    // phan khoi tao bien
+    // phan khoi tao bien;
     a = 10;
     b = 2;
     c = a - b;
