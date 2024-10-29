@@ -4,7 +4,7 @@ using namespace std;
 int main ()
 {
     // phan khai bien cuc bo;
-    int a,b;
+    int a, b;
     int c;
 
     // phan khoi tao bien;
