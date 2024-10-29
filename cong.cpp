@@ -1,12 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int main ()
+ int main ()
 {
-    // phan khai bien cuc bo;
+    // phan khai bao bien cuc bo;
     int a, b;
     int c;
-    // phan khoi tao bien;
+
+    //phan khoi tao bien;
     a = 10;
     b = 2;
     c = a + b;
@@ -14,4 +15,5 @@ int main ()
     cout << c;
 
     return 0;
+    
 }
