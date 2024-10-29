@@ -3,11 +3,11 @@ using namespace std;
 
 int main ()
 {
-    // phan khai bien cuc bo;
-    int a,b;
+    //  phan khai bien cuc bo;
+    int a, b;
     int c;
 
-    // phan khoi tao bien;
+    //phan khoi tao bien;
     a = 10;
     b = 2;
     c = a * b;
