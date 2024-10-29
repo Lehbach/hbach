@@ -10,7 +10,7 @@ int main ()
     // phan khoi tao bien;
     a = 10;
     b = 2;
-    c = a * b;
+    c = a / b;
 
     cout << c;
 
