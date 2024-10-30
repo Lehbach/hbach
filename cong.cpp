@@ -1,19 +1,13 @@
 #include <iostream>
 using namespace std;
-
- int main ()
+int main ()
 {
-    // phan khai bao bien cuc bo;
-    int a, b;
+    int a,b;
     int c;
-
-    //phan khoi tao bien;
-    a = 10;
-    b = 2;
+    cout << "gia tri cua a=";
+    cin >> a;
+    cout << "gia tri cua b=";
+    cin >> b;
     c = a + b;
-
-    cout << c;
-
-    return 0;
-    
+    cout << "tong so = " << c << endl;
 }
